@@ -1,0 +1,9 @@
+.<?php  
+function sayHello($name="harsh",$age=22)
+{  
+echo "Hello $name $age<br/>";  
+}  
+sayHello("divyesh");  
+sayHello();
+sayHello("dvs",23);  
+?>
